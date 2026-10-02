@@ -1,0 +1,7 @@
+{
+  "name": "Velvetique Beauty",
+  "description": "Modern, elegant beauty and skincare e-commerce website offering clean, dermatologically tested cosmetics, skincare, haircare, and bodycare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
